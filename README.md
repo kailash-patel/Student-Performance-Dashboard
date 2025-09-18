@@ -57,6 +57,13 @@ These clusters can help in **personalized learning recommendations**.
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard Screenshot](./assets/dashboard1 (1).png)
+
+
+
+---
+
 ## 🚀 Deployment
 Deployed the Next.js dashboard using Vercel:
 \`\`\`To View
