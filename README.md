@@ -58,11 +58,10 @@ These clusters can help in **personalized learning recommendations**.
 ---
 
 ## 🚀 Deployment
-After final testing, deploy the Next.js dashboard using Vercel:
-\`\`\`bash
-vercel
+Deployed the Next.js dashboard using Vercel:
+\`\`\`To View
 \`\`\`
-[Public link can then be added here.](https://student-performance-dashboard-kailash-patels-projects.vercel.app/)
+[Click Here.](https://student-performance-dashboard-kailash-patels-projects.vercel.app/)
 
 ---
 
