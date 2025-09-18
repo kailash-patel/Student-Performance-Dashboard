@@ -1,4 +1,3 @@
-# Create README.md
 echo "# Student Performance Dashboard
 
 ## 📌 Project Overview
