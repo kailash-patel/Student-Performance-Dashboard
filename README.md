@@ -1,5 +1,3 @@
-echo "# Student Performance Dashboard
-
 ## 📌 Project Overview
 This project analyzes synthetic student performance data using Machine Learning and visualizes insights through a Next.js dashboard.
 
