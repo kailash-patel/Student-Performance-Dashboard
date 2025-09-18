@@ -59,7 +59,7 @@ These clusters can help in **personalized learning recommendations**.
 
 ## 📸 Dashboard Preview
 ![Dashboard 1](./assests/dashboard1%20(1).png)
-![Dashboard 2](./assests/dashboard2%20(2).png)
+![Dashboard 2](./assests/dashboard1%20(2).png)
 
 
 ---
