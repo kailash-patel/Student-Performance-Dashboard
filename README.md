@@ -62,7 +62,7 @@ After final testing, deploy the Next.js dashboard using Vercel:
 \`\`\`bash
 vercel
 \`\`\`
-Public link can then be added here.
+[Public link can then be added here.](https://student-performance-dashboard-kailash-patels-projects.vercel.app/)
 
 ---
 
